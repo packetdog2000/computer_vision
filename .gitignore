@@ -1,4 +1,2 @@
-dog.jpg
-.DS_Store
-mt_baker.jpg
-.ipynb_checkpoints
+.*
+*.jpg
